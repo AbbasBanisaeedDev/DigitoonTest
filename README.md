@@ -4,11 +4,11 @@
 This App was created with:
 Kotlin &
 OMDBAPI &
-Mvvm &
+MVVM &
 Retrofit &
 Navigation &
 Hilt &
-Coroutines &
+Coroutine &
 ViewBinding &
 Coil &
 OkHTTP &
