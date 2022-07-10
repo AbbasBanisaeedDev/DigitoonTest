@@ -2,18 +2,18 @@
 
 
 This App was created with:
-Kotlin
-OMDBAPI
-Mvvm
-Retrofit
-Navigation
-Hilt
-Coroutines
-ViewBinding
-Coil
-OkHTTP
-ViewModel
-LiveData
+Kotlin &
+OMDBAPI &
+Mvvm &
+Retrofit &
+Navigation &
+Hilt &
+Coroutines &
+ViewBinding &
+Coil &
+OkHTTP &
+ViewModel &
+LiveData &
 LifeCycle
 
 
